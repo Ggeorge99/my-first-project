@@ -10,3 +10,5 @@ This video shows the BBQ robot rotating after I entered a Linux terminal command
 ## 📸 Robot Images
 ![Robot Front View](https://github.com/Ggeorge99/my-first-project/commit/69239098b1974d9c46a6789e0a54b4dd402fc00a)
 ![Robot Side View](https://github.com/Ggeorge99/my-first-project/commit/8cf38f62bc554d5e44dd5ebc4d1ed5db7fa96346)
+
+[▶ Watch the robot go forward](https://drive.google.com/file/d/1QUVmcQIRqICcq0jSY7BR2rNE4RCt3dBL/view?usp=sharing)
